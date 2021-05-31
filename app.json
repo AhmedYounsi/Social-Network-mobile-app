@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Insta-Memes",
+    "icon": "./assets/icon-app.png",
+    "version": "1.0.0",
+    "slug": "Insta-Memes",
+    "ios": {
+      "bundleIdentifier": "com.businesscommunication.businesscommunication",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.businesscommunication.businesscommunication",
+      "versionCode": 1
+    }
+  }
+}
